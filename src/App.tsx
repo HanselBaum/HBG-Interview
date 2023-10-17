@@ -11,5 +11,5 @@ import './App.css';
 // 	b. поле title;
 // 	c. поле userId;
 
-const App: FC = () => <Fragment>Interview</Fragment>;
+const App: FC = () => <Fragment>Interview Page</Fragment>;
 export default App;
